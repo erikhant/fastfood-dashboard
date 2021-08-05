@@ -2,18 +2,19 @@
 
 ## Design Reference
 
+![design](https://user-images.githubusercontent.com/46664170/128390589-2bfbd3f1-f987-4ae4-a7e0-68633bc94420.jpg)
 
-Desain ini **bukan milik saya**, saya hanya menggunakan desain ini sebagai bahan latihan belajar.\
-Sayangnya, saya lupa URL sumber referensi dari desain tersebut.\
+Desain ini **bukan milik saya**, saya hanya menggunakan desain ini sebagai bahan latihan belajar.
+
+Sayangnya, saya lupa URL sumber referensi dari desain tersebut.
+
 Saya mendownloadnya dari `dribbble.com` di tahun 2020 dan saat repo ini dibuat saya tidak bisa melacak untuk menemukan pemiliknya.
-
 
 ## Description
 Proyek aplikasi ini adalah karya hasil slicing desain.\
-Ini merupakan tampilan antarmuka user untuk melakukan proses pemesanan menu makanan cepat saji.\
+Ini merupakan tampilan antarmuka user untuk melakukan proses pemesanan menu makanan cepat saji.
 
-Saya tidak menggunakan library/framework apapun dalam proses slicing desainnya, hanya dengan HTML CSS & Javascript.\
-Ini hanya sebagai bahan latihan saja untuk saya, dan saya simpan disini karena mungkin bisa menjadi belajar juga bagi yang lain.
+Saya tidak menggunakan library/framework apapun dalam proses slicing desainnya, hanya dengan HTML CSS & Javascript. Ini hanya sebagai bahan latihan saja untuk saya, dan saya simpan disini karena mungkin bisa menjadi belajar juga bagi yang lain.
 
 
 ## LICENSE
