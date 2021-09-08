@@ -148,7 +148,6 @@ addCart.forEach(el => {
             }
         }
 
-
         listOrder.prepend(divOrder);
 
         e.target.firstChild.data = '';
